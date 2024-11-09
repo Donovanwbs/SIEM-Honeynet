@@ -124,18 +124,16 @@ This project involves setting up Windows and Linux virtual machines (VMs), confi
     - Added XPath queries to create logs when the VM discovers malware and to forward firewall logs if there is any tampering.
 
     ![Data Collection Rules]
+    
     <img width="437" alt="image" src="https://github.com/Donovanwbs/SIEM-Honeynet/assets/84741902/5d2af999-ba28-4d32-8881-12a584b6540e">
 
 
-12. **Setting Up Azure Active Directory (Entra) Diagnostics**
-13. **Setting Up Azure Active Directory (Entra) Diagnostics**
+13.  **Setting Up Azure Active Directory (Entra) Diagnostics**
     - Created a diagnostic setting to track sign-in activities.
     - Created a user with global admin permissions, logged in, assigned the role of Global Administrator, then deleted the user to observe audit logs.
 
 
-    ![AAD Diagnostics]
 
-## Conclusion
     
   <img width="470" alt="image" src="https://github.com/Donovanwbs/SIEM-Honeynet/assets/84741902/eb92b607-9354-42be-bb60-fe562d43ba3f">
 
